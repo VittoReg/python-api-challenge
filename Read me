@@ -1,0 +1,5 @@
+Run the 2x Jupyter notebook files to see results.
+
+I have had some issues with hvplot on my machine as it won't work, however the code should be correct and hopefully you will be able to run the maps.
+
+Not sure whether I added my api's correctly to .gitignore 
